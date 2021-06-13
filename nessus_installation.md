@@ -90,3 +90,6 @@ Log in with the account credentials you made earlier.
 You have now successfully installed Nessus!
 
 ![10](https://user-images.githubusercontent.com/66565192/121796092-46068780-cc38-11eb-9c31-07408f868490.PNG)
+
+
+[+] Thanks
