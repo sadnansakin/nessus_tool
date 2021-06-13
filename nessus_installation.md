@@ -36,8 +36,8 @@ Remember to replace package_file.deb with the file name you downloaded.
 # Step #4
 
 We will now start the Nessus Service with the command:
-
 sudo /bin/systemctl start nessusd.service
+
 ![4](https://user-images.githubusercontent.com/66565192/121796020-a21cdc00-cc37-11eb-9808-5bd3951b9591.PNG)
 
 
