@@ -5,8 +5,8 @@ This repo. is about how to install nessus and how to start it.
 
 
 
-# Starting & accessing nessus 
+## Starting & accessing nessus 
 https://github.com/sadnansakin/nessus_tool/blob/main/Starting%20%26%20accessing%20nessus.md
 
-# nessus_installation
+## nessus_installation
 https://github.com/sadnansakin/nessus_tool/blob/main/nessus_installation.md
